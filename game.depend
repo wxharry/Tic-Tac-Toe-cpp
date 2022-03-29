@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530094685 source:c:\users\wxh\documents\cpp\game\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+
